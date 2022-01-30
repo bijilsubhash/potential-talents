@@ -1,6 +1,6 @@
 # Potential Talents 
 
-I used NLP and location API to build a search algorithm on a pre-screened talent dataset, a toolkit used for finding ideal talents. 
+I used NLP toosl and location API to build a search algorithm on a pre-screened talent dataset, a toolkit used for ranking potential talents. 
 
 ## File Descriptions
 - **potential-talents-bert.ipynb**: notebook with data exploration, feature engineering and model building using BERT
